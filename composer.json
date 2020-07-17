@@ -1,0 +1,14 @@
+{
+    "name": "dell/testowe-repo",
+    "description": "Opis mojego repo",
+    "type": "library",
+    "require": {
+        "symfony/symfony": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Bart",
+            "email": "b@eura7.com"
+        }
+    ]
+}
